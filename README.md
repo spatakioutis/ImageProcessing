@@ -1,5 +1,7 @@
 # ImageProcessing
 
+This is an introductory level (the first I ever made) university project in C++.
+
 # BUILD
 Open the directory you cloned and type: "make" in the command line.
 
